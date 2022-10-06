@@ -8,6 +8,8 @@ module.exports = {
     extend: {
       colors: {
         button: '#fbe850',
+        secondary: '#2e3038',
+        accent: '#adadad',
       },
     },
     fontFamily: {
